@@ -10,3 +10,5 @@ Each code sprint has a dedicated page with the logistics and anything else parti
 
 The [associated GitHub repository](https://github.com/opengeospatial/developer-events), is used to hold files associated to the code sprint (e.g.: presentations).
 
+The recommendation is to create the wiki page and repo, as soon as possible, even with minimal information. In the next sections, we explain how-to create this page through the GitHub UI. In alternative, you could clone the GitHub repository, create the page on your local machine and commit & push the result.
+
