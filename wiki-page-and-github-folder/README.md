@@ -2,7 +2,7 @@
 description: Description of the wiki page and github repository setup.
 ---
 
-# Wiki page and GitHub repo
+# Wiki page and GitHub folder
 
 The [developer-events wiki page](https://github.com/opengeospatial/developer-events/wiki), contains information about past and upcoming code sprints.&#x20;
 
@@ -10,5 +10,7 @@ Each code sprint has a dedicated page with the logistics and anything else parti
 
 The [associated GitHub repository](https://github.com/opengeospatial/developer-events), is used to hold files associated to the code sprint (e.g.: presentations).
 
-The recommendation is to create the wiki page and repo, as soon as possible, even with minimal information. In the next sections, we explain how-to create this page through the GitHub UI. In alternative, you could clone the GitHub repository, create the page on your local machine and commit & push the result.
+The recommendation is to create the wiki page as soon as possible, even with minimal information. In the next sections, we explain how-to create this page and associated folder through the GitHub UI. In alternative, you could clone the GitHub repository, do the hanges on your local machine and commit & push the result.
+
+
 
