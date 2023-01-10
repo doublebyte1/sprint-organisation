@@ -4,6 +4,8 @@ description: Steps to setup the discord server, before the event.
 
 # Initial Setup
 
+### Adding Channels
+
 Each focused code sprint, features channels for each specification.
 
 ![](../.gitbook/assets/web-mapping-cs-new-channels.png)
