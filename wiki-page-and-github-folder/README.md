@@ -2,7 +2,7 @@
 description: Description of the wiki page and github repository setup.
 ---
 
-# Wiki page and GitHub folder
+# 📜 Wiki page and GitHub folder
 
 The [developer-events wiki page](https://github.com/opengeospatial/developer-events/wiki), contains information about past and upcoming code sprints.&#x20;
 
