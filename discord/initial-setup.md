@@ -16,6 +16,8 @@ If these channels do not exist for the current code sprint, you should create th
 
 After creating the channel, you should [bridge it to matrix](https://matrix.org/bridges/), so that users can use any client they like to access the text channels. In order to create a discord bridge on matrix, you will also need to be an admin on #ogc:matrix.org.&#x20;
 
+### Creating a Discord-Matrix Bridge
+
 Use a client to access #ogc:matrix.org (for instance, [element](https://app.element.io/#/room/#ogc:matrix.org)) and follow these steps to enable the bridge:
 
 1. Create a public room
@@ -24,3 +26,6 @@ Use a client to access #ogc:matrix.org (for instance, [element](https://app.elem
 4. The Discord bridge bot should reply: "I'm asking permission from the guild administrators to make this bridge.". Go to the discord channel you want to bridge and type:`!matrix approve` within the next 5 minutes.
 
 After completing the bridge, everything you type on the matrix room will be broadcasted to discord, and vice versa.
+
+### Creating Events
+
