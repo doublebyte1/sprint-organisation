@@ -27,5 +27,18 @@ Use a client to access #ogc:matrix.org (for instance, [element](https://app.elem
 
 After completing the bridge, everything you type on the matrix room will be broadcasted to discord, and vice versa.
 
-### Creating Events
+### Adding Events
 
+Discord supports adding events, which can be started at the scheduled date/time.  Once an event starts, users will see a pop-upon the screen and once they click it, they will be taken to the relevant channel. This is useful, because it will keep users updated to what is happening on the server, and reduce the likelihood that they will miss schedule events.&#x20;
+
+To create an event, bring up the context menu at the server name, and choose `Create event`.
+
+![](../.gitbook/assets/discord-add-event.png)
+
+Then follow along, filling the options. Events normally take place at the #Main Stage voice channel, except for the tutorials which normally take place at the #Mentor Room. Occasionally, smaller events can take place at the #Breakout Room.
+
+![](../.gitbook/assets/discord-add-event2.png)
+
+Once the event is created, it will create an hyperlink which you can use to share the event through social media, or even within discord.
+
+At any moment, anyone can check out the list of scheduled events in the channel, by clicking on `Events`, at the upper right corner of the side panel.
