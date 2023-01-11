@@ -41,4 +41,6 @@ Then follow along, filling the options. Events normally take place at the #Main 
 
 Once the event is created, it will create an hyperlink which you can use to share the event through social media, or even within discord.
 
+![](../.gitbook/assets/discord-add-event3.png)
+
 At any moment, anyone can check out the list of scheduled events in the channel, by clicking on `Events`, at the upper right corner of the side panel.
