@@ -30,6 +30,16 @@ Once you start recording, the craig bot will send you a private message which co
 
 If you click the download link, it will take you to a an external webpage to download the recording. I find it that this operation works best on Safari. Choose the single track mixing in AAC format and wait for it to process the track (this may take a while, an it is quite intensive on the CPU).
 
-When the track is ready, you can download it and put it somewhere accessible (e.g.: OGC portal).
+![](../.gitbook/assets/discord-craig2.png)
 
-&#x20;
+When the track is ready, you can download it and put it somewhere accessible (e.g.: OGC portal). [Then you can update the schedule on the wiki with the link for the recording](https://test-186.gitbook.io/code-sprint-organization-for-wgs/wiki-page-and-github-folder/maintaining-the-wiki-page).
+
+#### &#x20;Closing Session
+
+Usually the last session (demo & wrap up) is held in [GotoMeet](https://www.goto.com/meeting), in order to enable video recording.
+
+Ahead of the session, create a goto meeting link (ask OGC staff, if needed) and update the schedule on the [wiki page](https://test-186.gitbook.io/code-sprint-organization-for-wgs/wiki-page-and-github-folder/adding-a-new-wiki-page) with the link. When adding the event on discord, you should publish this link.
+
+Once you are in GoToMeet, start the recording. After downloading the recording, you can upload it to the OGC portal. The portal has a hard limit on file sizes, so reduce it first using an transcoder software (e.g.: [handbrake](https://handbrake.fr/)).
+
+Update the schedule on the wiki, with the link to the video recording.

@@ -35,7 +35,7 @@ To create an event, bring up the context menu at the server name, and choose `Cr
 
 ![](../.gitbook/assets/discord-add-event.png)
 
-Then follow along, filling the options. Events normally take place at the #Main Stage voice channel, except for the tutorials which normally take place at the #Mentor Room. Occasionally, smaller events can take place at the #Breakout Room.
+Then follow along, filling the options. Events normally take place at the #Main Stage voice channel, except for the tutorials which normally take place at the #Mentor Room. Occasionally, smaller events can take place at the #Breakout Room. If you are adding an event which will take place outside discord (e.g.: GoToMeet), you should choose the "Somewhere else" option, and later add the link for the meeting.
 
 ![](../.gitbook/assets/discord-add-event2.png)
 
