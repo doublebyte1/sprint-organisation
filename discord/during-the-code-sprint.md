@@ -18,10 +18,6 @@ It is possible to record audio of the discord meetings, using the [craig bot](ht
 
 In order to record, go to one of the text channels under the `staff` section and type:
 
-``
-
-``
-
 `/join channel:Main Stage 👥` (replace Main Stage 👥, by the name of the channel you want to record.
 
 There will be an acknowledgement message on the channel, which includes a `stop` button. Do not forget to stop the recording, either by clicking the `stop` button, or by typing:
